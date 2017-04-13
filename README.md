@@ -1,5 +1,6 @@
 # Assignment-1
 //Angelene
+//Quah Han Huey
 var listOfAllKnownAuthors = []
 
 class BookStore
